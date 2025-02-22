@@ -8,3 +8,4 @@
 - Burstable(버스트 가능)
 - iam 정책
 - VPC
+- 온프레미스 환경
