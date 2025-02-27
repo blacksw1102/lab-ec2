@@ -30,11 +30,7 @@
 
 ![alt text](20250227_104743.png)
 
-### Role > Policy 적용
-
 ![alt text](20250227_104911.png)
-
-### EC2 > IAM Role 적용
 
 ![alt text](20250227_105022.png)
 
